@@ -44,7 +44,7 @@ public class checking {
                 monthString = "december";
                 break;
             default:
-                monthString = "not exist";
+                monthString = "this month is not exist";
                 break;
         }
         System.out.println(monthString);
@@ -56,9 +56,9 @@ public class checking {
         if (ch == answer) {
             System.out.println("Congrats!");
         } else if (ch > answer) {
-            System.out.println(" you over tried");
+            System.out.println(" you overdone ");
         } else {
-            System.out.println("try more");
+            System.out.println("you didn't try hard");
         }
     }
 }
