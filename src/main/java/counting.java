@@ -21,7 +21,7 @@ public class counting {
 
         int num3 = 7;
         int num4 = num3--;
-        System.out.println(num3);  //3 but not 4!
+        System.out.println(num3);  //num3 but not num4!
 
         int num5 = 7;
         int num6 = ++num5;

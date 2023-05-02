@@ -4,7 +4,7 @@ public class checking {
     public static void main(String[] args) throws IOException {
 
 
-        int month = 13;
+        int month = 3;
         String monthString = new String();
         switch (month) {
             case 1:
@@ -49,7 +49,7 @@ public class checking {
         }
         System.out.println(monthString);
 
-        char ch, answer = 'B';
+        char ch, answer = '1';
         System.out.println("what a letter?");
         System.out.print("try to guess : ");
         ch = (char) System.in.read();

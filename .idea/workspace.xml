@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214e0403-7385-4d9c-a54b-3209cd91b9d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cycles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Massive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/counting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cycles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.cycles">
+  <component name="RunManager" selected="Application.Massive">
+    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Massive" />
+      <module name="New_studies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Start" />
       <module name="New_studies" />
@@ -78,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Massive" />
         <item itemvalue="Application.cycles" />
         <item itemvalue="Application.checking" />
         <item itemvalue="Application.counting" />
@@ -115,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682853575599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4_29_23">
+      <created>1682867179035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682867179035</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
