@@ -49,7 +49,7 @@ public class checking {
         }
         System.out.println(monthString);
 
-        char ch, answer = '1';
+        char ch, answer = 'y';
         System.out.println("what a letter?");
         System.out.print("try to guess : ");
         ch = (char) System.in.read();
