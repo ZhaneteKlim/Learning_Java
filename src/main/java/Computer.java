@@ -9,13 +9,18 @@ public class Computer {
 
    }
 
-    void getCpu() {
+    int getCpu() {
         System.out.println(cpu);
+        return cpu;
     }
-    void  getMemory(){
+    int getMemory(){
         System.out.println(memory);
+     return memory;
+
     }
-    void setMemory(int m) {
-        memory = m;
+
+    public String name() {
+        return name;
     }
 }
+

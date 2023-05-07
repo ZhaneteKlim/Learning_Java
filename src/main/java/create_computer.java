@@ -1,7 +1,7 @@
 public class create_computer {
     public static void main(String[] args) {
         Computer apple = new Computer(1000, 1500, "MacBook");
-     //   apple.cpu = 2500;
+
        // apple.memory = 1000;
      //   apple.name = "MacBook10";
 
@@ -13,10 +13,13 @@ public class create_computer {
 
    //    Computer asus = apple;
     //   apple.memory = 1500;
-   //    apple.isMemory();
+   //   apple.isMemory();
  //      deal.isMemory();
-       apple.setMemory(100);
-       apple.getMemory();
+  //     apple.setMemory(100);
+  //     apple.getMemory();
+
+        System.out.println(apple.getMemory() + apple.getCpu());
+        System.out.println(apple.name());
 
 
 
